@@ -1,3 +1,8 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/Tarte12/LeetCode.git
+
+[submodule "neetcode_solutions"]
+    path = neetcode_solutions
+    url = https://github.com/Tarte12/neetcode-submissions.git
+
